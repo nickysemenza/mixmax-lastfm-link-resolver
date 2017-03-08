@@ -7,8 +7,8 @@ This will expand last.fm urls to a short preview.
 ## Running locally
 
 1. Install using `npm install`
-2. Run using `npm start`
-
+2. Add your [lastfm API key](http://www.last.fm/api/) to `utils/key.js`
+3. Run using `npm start`
 To simulate locally how Mixmax calls the resolver URL (to return HTML that goes into the email), run:
 
 ```

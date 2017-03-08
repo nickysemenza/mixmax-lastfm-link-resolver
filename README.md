@@ -1,5 +1,7 @@
 # Last.fm Mixmax link resolver
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nickysemenza/mixmax-lastfm-link-resolver.svg)](https://greenkeeper.io/)
+
 This is an open source Mixmax Link Resolver. See <http://developer.mixmax.com/docs/overview-link-resolvers> for more information about how to use this example code in Mixmax.
 
 ## Running locally

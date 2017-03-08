@@ -1,6 +1,8 @@
 # Last.fm Mixmax link resolver
 
-This is an open source Mixmax Link Resolver. See <http://developer.mixmax.com/docs/overview-link-resolvers> for more information about how to use this example code in Mixmax.
+This will expand last.fm urls to a short preview.
+
+![Demo](http://i.imgur.com/xhvFMQ8.gif =250x)
 
 ## Running locally
 
